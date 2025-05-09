@@ -6,7 +6,20 @@ This project simulates a **complete enterprise network infrastructure** using Ci
 
 ## 📌 Project Overview
 
-The network is designed to represent a **medium-sized organization** with multiple departments, servers, and secure wireless access. It includes:
+The network is designed to represent a **medium-sized organization** with multiple departments, servers, and secure wireless access.
+
+---
+
+## 📸 Screenshot
+
+![Project Topology](project_ccna.PNG)
+
+---
+
+
+
+
+It includes:
 
 - 🔀 Multiple VLANs for department isolation  
 - 🌐 Inter-VLAN Routing using Layer 3 Switches  
@@ -78,12 +91,6 @@ The network is designed to represent a **medium-sized organization** with multip
 - Cisco Switches: 2960  
 - Protocols: Static Routing, VLAN, 802.1X, DHCP, DNS, HTTP, SMTP  
 - Topology: Hybrid (Star + Mesh)
-
----
-
-## 📸 Screenshot
-
-![Project Topology](project_ccna.PNG)
 
 ---
 
